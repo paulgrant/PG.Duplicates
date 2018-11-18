@@ -1,0 +1,8 @@
+ClassLibrary/.vs/
+ClassLibrary/ClassLibrary/bin/
+ClassLibrary/ClassLibrary/obj/
+ConsoleApp/ConsoleApp/bin/
+ConsoleApp/ConsoleApp/obj/
+UnitTest/UnitTestProject/bin/
+UnitTest/UnitTestProject/obj/project.assets.json
+UnitTest/UnitTestProject/obj/
