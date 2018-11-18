@@ -1,4 +1,4 @@
-# PG.Dplicates
+# PG.Duplicates
 
 To run the console app - open a console and type the following:
 
